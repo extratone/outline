@@ -1,26 +1,26 @@
-# David Blue's GitHub Repository Template
-Updated `08092022-233310`
+# The Outline Archive/Repository
+Updated `10012022-144327`
 
-- [**GitHub**](https://github.com/extratone/latte)
-- [WTF](https://davidblue.wtf/drafts/745BCB94-CE46-4509-A7E0-7566F8DDDF23.html)
-- [WTF Shortlink](https://davidblue.wtf/latte) - `https://davidblue.wtf/latte`
-- [~](https://tilde.town/~extratone/misc/latte)
-- [Things](things:///show?id=8bnNqdTt7bupYXTbmD1SbE)
+- [**Repository**](https://github.com/extratone/outline)
+- [**GitHub Pages**](https://extratone.github.io/outline/)
+- [Index.html Preview](https://refined-github-html-preview.kidonng.workers.dev/extratone/outline/raw/main/index.html)
+- [Raw README File](https://raw.githubusercontent.com/extratone/[REPO]/master/README.md)
+- [WTF](https://davidblue.wtf/drafts/9939D9BE-E431-4EE1-8A91-CF27D30B771D.html)
+- [Tilde](https://tilde.town/~extratone/outline) 
+- [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/9939D9BE-E431-4EE1-8A91-CF27D30B771D.md)
+- Things
 
 ---
 
-![Cute Git](https://user-images.githubusercontent.com/43663476/117531764-d6064100-afa9-11eb-9e09-783e189abe8e.gif)
+[![The Outline Logo-Black](https://github.com/extratone/outline/raw/main/images/logo-black.8209089405de2e472338e189d3a37cab.svg)](https://extratone.github.io/outline/)
 
-***Latte*** is a GitHub Repository Template created specifically for use by [David Blue](/DavidBlue.vcf) (that’s me, howdy,) but open to any and all use/misuse/defilement as per [its license](/LICENSE.md).
+![The Outline Logo-Black](https://github.com/extratone/outline/raw/main/images/logo-black.8209089405de2e472338e189d3a37cab.svg)
 
-To be honest, I’m almost positive the name was really clever but I cannot for the life of me remember what the fuck I meant.
+> The Outline is a new kind of publication founded by journalists and storytellers. We want to help you understand the world better, feed your curiosity, challenge your assumptions, and show you something new.
+> We’re dedicated to telling the right stories for right now, and our coverage is focused on the increasingly complex confluence of culture, power, and technology.
 
-### Contact me for whatever reason
+---
 
-- [Contact Card](https://davidblue.wtf/db.vcf)
-- [Telegram](https://t.me/extratone)
-- [Email](mailto:davidblue@extratone.com) 
-- [Twitter](https://twitter.com/NeoYokel)
-- [Mastodon](https://mastodon.social/@DavidBlue)
-- [Discord](https://discord.gg/0b9KQUKP858b0iZF)
-- [*Everywhere*](https://raindrop.io/davidblue/social-directory-21059174)...
+<audio controls>
+  <source src="https://github.com/extratone/outline/raw/main/audio/Topolsky-RecodeMedia.mp3">
+</audio>
